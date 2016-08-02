@@ -5,7 +5,7 @@ Gesture recognition implemented using feedforward neural network and OpenCL. Imp
 
 Full master's thesis can be downloaded from [here](http://www.zemris.fer.hr/predmeti/ra/Magisterij/14_Suflaj/diplomski.pdf).
 
-Demo application that recognizes gesture made by computer mouse can be accessed from [here](http://demos.php4every1.com/diplomski/).
+Demo application that recognizes gesture made by computer mouse can be accessed from [here](https://www.msuflaj.net/projects/mag/).
 
 Both demo web application and paper are written in Croatian language.
 
